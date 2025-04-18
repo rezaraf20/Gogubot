@@ -1,0 +1,32 @@
+[
+  {
+    "service": "Gmail",
+    "title": "Create a label",
+    "content": "On your computer, go to Gmail. On the left, scroll down, then click More. Click Create new label. Name your label. Click Create."
+  },
+  {
+    "service": "Google Docs",
+    "title": "Share a document",
+    "content": "On your computer, go to Google Drive. Select the file you want to share. Enter the email address you want to share with. Decide how people can use your file."
+  },
+  {
+    "service": "Google Calendar",
+    "title": "Create an event",
+    "content": "On your computer, open Google Calendar. Click the space next to date you want to add an event to. Add a title and time for your event. Click Save."
+  },
+  {
+    "service": "Google Drive",
+    "title": "Upload files",
+    "content": "On your computer, go to drive.google.com. Click New and then File upload. Choose the file you want to upload."
+  },
+  {
+    "service": "Google Sheets",
+    "title": "Freeze rows or columns",
+    "content": "On your computer, open a spreadsheet in Google Sheets. Select a row or column you want to freeze or unfreeze. At the top, click View and then Freeze. Select how many rows or columns to freeze."
+  },
+  {
+    "service": "Google Slides",
+    "title": "Add animations",
+    "content": "On your computer, open a presentation in Google Slides. Click the text or image you want to animate. Click Insert and then Animation."
+  }
+]
