@@ -16,3 +16,19 @@ Gogubot is an intelligent chatbot powered by **Gemini** and **FAISS** that helps
 ---
 
 ## Project Structure
+
+```
+gogubot/
+├── data/
+│   └── google_help_data.json
+├── src/
+│   ├── embed.py
+│   ├── search.py
+│   ├── model_config.py
+│   └── gogubot_agent.py
+├── notebooks/
+│   └── notebookgogubot_enhanced.ipynb
+├── requirements.txt
+└── README.md
+```
+
